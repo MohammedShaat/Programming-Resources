@@ -34,7 +34,7 @@
 #### Websites
 
 * [codeforces](https://codeforces.com/)
-  * [codeforces كيفية إستعمال منصة]()
+  * [codeforces كيفية إستعمال منصة](https://www.youtube.com/watch?v=o6oTlVyNnj8)
 * [topcoder](https://www.topcoder.com/challenges?)
 * [Hackerrank](https://www.hackerrank.com/)
 * [codechef](https://www.codechef.com/)
